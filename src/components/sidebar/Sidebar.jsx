@@ -12,6 +12,7 @@ import jack from '../../assets/jack.png'
 import simon from '../../assets/simon.png'
 import tom from '../../assets/tom.png'
 import megan from '../../assets/megan.png'
+import cameron from '../../assets/cameron.png';
 
 const Sidebar = () => {
   return (
@@ -74,8 +75,8 @@ const Sidebar = () => {
           <p>5-Minute Crafts</p>
         </div>
         <div className="side-link">
-          <img src={""} alt="user icon" />
-          <p>PewDiePie</p>
+          <img src={cameron} alt="user icon" />
+          <p>Nas Daily</p>
         </div>
       </div>
     </div>
