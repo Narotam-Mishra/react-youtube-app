@@ -40,7 +40,50 @@ const PlayVideo = () => {
           <div>
             <h3>Jack Nicholson <span>1 day ago</span></h3>
             <p>A global computer network providing a variety of information and communication of interconnected networks using standarddized communication protocols.</p>
-            <div className="comment-action"></div>
+            <div className="comment-action">
+              <img src={like} alt="like icon" />
+              <span>244</span>
+              <img src={dislike} alt="dislike icon" />
+            </div>
+          </div>
+        </div>
+
+        <div className="comment">
+          <img src={user_profile} alt="user profile image" />
+          <div>
+            <h3>Jack Nicholson <span>1 day ago</span></h3>
+            <p>A global computer network providing a variety of information and communication of interconnected networks using standarddized communication protocols.</p>
+            <div className="comment-action">
+              <img src={like} alt="like icon" />
+              <span>244</span>
+              <img src={dislike} alt="dislike icon" />
+            </div>
+          </div>
+        </div>
+
+        <div className="comment">
+          <img src={user_profile} alt="user profile image" />
+          <div>
+            <h3>Jack Nicholson <span>1 day ago</span></h3>
+            <p>A global computer network providing a variety of information and communication of interconnected networks using standarddized communication protocols.</p>
+            <div className="comment-action">
+              <img src={like} alt="like icon" />
+              <span>244</span>
+              <img src={dislike} alt="dislike icon" />
+            </div>
+          </div>
+        </div>
+
+        <div className="comment">
+          <img src={user_profile} alt="user profile image" />
+          <div>
+            <h3>Jack Nicholson <span>1 day ago</span></h3>
+            <p>A global computer network providing a variety of information and communication of interconnected networks using standarddized communication protocols.</p>
+            <div className="comment-action">
+              <img src={like} alt="like icon" />
+              <span>244</span>
+              <img src={dislike} alt="dislike icon" />
+            </div>
           </div>
         </div>
       </div>
